@@ -55,10 +55,3 @@ python drive.py
 ```
 
 Open the simulator in **Autonomous** mode and run when prompted.
-
-# Authors:
-```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
-```
